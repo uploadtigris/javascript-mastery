@@ -1,0 +1,31 @@
+ /*selectors*/
+
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;/* always include*/
+ }
+
+ body {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    /*will inherit*/
+    font-size: 20px;
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+ /* selecting based on class name*/
+.first{
+    color: rgb(32, 28, 28);
+}
+
+ /* selecting based on id name*/
+#your-name{
+    background-color: blanchedalmond;
+    border: 5px solid #444
+    /* size, style, color */
+}
