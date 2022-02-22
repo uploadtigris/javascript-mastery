@@ -1,2 +1,2 @@
 # javascript-mastery
-programs following a tutorial to learn about JavaScript
+Programs utilizing JavaScript, HTML, and CSS following a tutorial to learn about JavaScript
